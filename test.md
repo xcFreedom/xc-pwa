@@ -63,7 +63,7 @@ sadfasf
 [Google 搜索](https://www.google.com)
 
 以下是一张图片示例（使用给定的链接）：
-![Baidu Logo](https://www.baidu.com/img/flexible/logo/pc/peak-result.png)
+![image/png](https://www.baidu.com/img/flexible/logo/pc/peak-result.png)
 
 ## 5. 引用 (Blockquotes)
 
